@@ -1,2 +1,21 @@
 # youtube-recommendations-twiseyoutube
+
 Youtube videos recommended by Twiseyoutube (on instagram)
+
+1. [The Darkest Lost Media [Vol. 2]](https://www.youtube.com/watch?v=lAguD4gBmSI)
+2. [Cicada 3301: An Internet Mystery](https://www.youtube.com/watch?v=I2O7blSSzpI)
+3. [Sympathy for the Villain](https://www.youtube.com/watch?v=YzfUj-m2I6I)
+4. [The 10-Year Hunt for the Lost McDonald's DS Game](https://www.youtube.com/watch?v=-e6xOBCAVvA)
+5. [Where Did These Images Come From?](https://www.youtube.com/watch?v=ZcvW2qeuKYk)
+6. [The Man Who Stepped Off the Earth: Chris McCandless](https://www.youtube.com/watch?v=FaqHyMOxqiw)
+7. [Mr Swirl: The Internet's Most Disturbed User](https://www.youtube.com/watch?v=bdo_max_rR4)
+8. [The Most Disturbing Human Experiment Ever](https://www.youtube.com/watch?v=xRwCNiWuUpQ)
+9. [Super Mario Bros: The Human Limit](https://www.youtube.com/watch?v=7rIJNT7dCmE)
+10. [The Mass Killer Who Murdered Over My Little Pony](https://www.youtube.com/watch?v=n-abxgFv1bU)
+11. [The Vanishing of Flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
+12. [The Search For D. B. Cooper](https://www.youtube.com/watch?v=CbUjuwhQPKs)
+13. [The Dark Side Of The Silk Road](https://www.youtube.com/watch?v=GpMP6Nh3FvU)
+14. [The Dark Side of Reddit](https://www.youtube.com/watch?v=K1MU5ysyPiI)
+15. [There's Something About Casey...](https://www.youtube.com/watch?v=eJt_afGN3IQ)
+16. [Can You Name One Object In This Photo?](https://www.youtube.com/watch?v=0F7XBwFwA-M)
+17. [The Ugly Side of Kids TV](https://www.youtube.com/watch?v=cCyiEWtee_c)
